@@ -1,4 +1,11 @@
-### Hi there 👋
+## Olá, me chamo Anderson! 👋
+
+Sou Natural de Recife (PE), mas moro em Piracicaba (SP), e possuo graduação e mestrado em Economia.
+Atualmente trabalho com análise de dados relacionados ao setor de biocombustíveis e minha principal ferramenta de trabalho é o Software R.
+
+Para mais informações ou entrar em contato comigo, me chama no LinkedIn: https://www.linkedin.com/in/anderson-fontes-filho-33b007131
+
+### 
 
 <!--
 **afontesfilho/afontesfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
